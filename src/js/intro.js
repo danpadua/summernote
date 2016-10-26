@@ -1,4 +1,4 @@
-/**
+  /**
  * Super simple wysiwyg editor v@VERSION
  * http://summernote.org/
  *
@@ -21,4 +21,4 @@
     factory(window.jQuery);
   }
 }(function ($) {
-  'use strict';
+  'use strict';}))
